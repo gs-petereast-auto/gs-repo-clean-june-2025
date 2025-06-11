@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>field_9__c</fullName>
+    <displayFormat>9-{000}</displayFormat>
+    <externalId>false</externalId>
+    <label>field-9</label>
+    <type>AutoNumber</type>
+</CustomField>

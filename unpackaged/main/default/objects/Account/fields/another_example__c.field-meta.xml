@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>another_example__c</fullName>
+    <displayFormat>Z-{0000}-A</displayFormat>
+    <externalId>false</externalId>
+    <label>another_example</label>
+    <type>AutoNumber</type>
+</CustomField>
