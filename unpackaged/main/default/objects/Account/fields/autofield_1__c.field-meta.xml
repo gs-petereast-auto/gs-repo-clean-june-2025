@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>autofield_1__c</fullName>
-    <displayFormat>A-{00000}</displayFormat>
-    <externalId>false</externalId>
-    <label>autofield-1</label>
-    <type>AutoNumber</type>
-</CustomField>
+<SfCustomField x-gs-devobject="true" xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>autofield_1__c</fullName>
+	<externalId>false</externalId>
+	<label>DeMMFdPg</label>
+	<type>AutoNumber</type>
+</SfCustomField>
