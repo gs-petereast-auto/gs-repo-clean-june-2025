@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SfCustomField x-gs-devobject="true" xmlns="http://soap.sforce.com/2006/04/metadata">
+	<fullName>autofield_1__c</fullName>
+	<externalId>false</externalId>
+	<label>NanSBjwi</label>
+	<type>AutoNumber</type>
+</SfCustomField>
